@@ -13,3 +13,5 @@ now you can troll, portably!!!
 KNOWN ISSUES
 -video cutscene won't play
 -tutorial is fucking impossible
+
+too lazy to upload every single file of the source code individually, or theres a feature to do that and im just a dumbass. either way, source code is in the releases
