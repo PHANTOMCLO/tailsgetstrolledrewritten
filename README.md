@@ -9,3 +9,7 @@ TAILS GETS TROLLED:
 -https://gamebanana.com/mods/320596
 
 now you can troll, portably!!!
+
+KNOWN ISSUES
+-video cutscene won't play
+-tutorial is fucking impossible
